@@ -3,7 +3,7 @@
 ######################
 
 #Your directory
-directory <- "__"
+directory <- "/Usr/blah"
 
 #####################################
 ##### READ IN LIBRARIES, INPUTS #####
