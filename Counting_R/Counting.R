@@ -3,7 +3,7 @@
 ######################
 
 #Your directory
-directory <- "/Usr/blah"
+directory <- "/Usr/blah/testblah"
 
 #####################################
 ##### READ IN LIBRARIES, INPUTS #####
